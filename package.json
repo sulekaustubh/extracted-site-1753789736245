@@ -1,0 +1,7 @@
+{
+  "name": "extracted-site-1753789736245",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "echo 'No build step needed'"
+  }
+}
